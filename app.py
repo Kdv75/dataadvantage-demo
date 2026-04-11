@@ -1,5 +1,12 @@
 import streamlit as st
 st.set_page_config(layout="wide")
+
+import streamlit as st
+st.set_page_config(layout="wide")
+
+st.write("NEW VERSION 🚀")  # ← ВОТ СЮДА
+
+import pandas as pd
 import pandas as pd
 import numpy as np
 import plotly.express as px
